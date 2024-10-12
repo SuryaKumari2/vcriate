@@ -7,10 +7,15 @@ This is a RESTful API for a basic online quiz application developed using Node.j
 
 
 1.User registration and login
+
 2.create quizzes
+
 3.fetch quizzes
+
 4.fetch quizzes by ID 
+
 5.submit answers
+
 6.View results of the quizzes
 
 **Technologies Used**
