@@ -1,4 +1,6 @@
 const User=require('../models/userModel');
+
+//controller for user registeration
 exports.userRegister=async(req,res)=>{
     try {
         
@@ -19,6 +21,8 @@ exports.userRegister=async(req,res)=>{
         
     }
 }
+
+//controller for user login
 exports.userLogin=async(req,res)=>{
     try {
         const{email,password}=req.body;

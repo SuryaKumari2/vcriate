@@ -1,3 +1,4 @@
+//model for Quiz
 const mongoose=require('mongoose');
 
 const questionScehma=new mongoose.Schema({
