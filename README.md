@@ -1,7 +1,11 @@
--**Online Quiz Application API**-
+**Online Quiz Application API**
+
+
 This is a RESTful API for a basic online quiz application developed using Node.js and Express.js. The API supports user authentication and management of multiple-choice quizzes.
 
 **Features**
+
+
 1.User registration and login
 2.create quizzes
 3.fetch quizzes
